@@ -1,5 +1,7 @@
 # Seokjun Jeong
-
+<p align="center">
+  <img src="assets/profile-banner.png" alt="Hybrid Neural-Numerical AI Systems" width="100%">
+</p>
 **AI Research Engineer | Scientific Machine Learning | Neural Numerical Methods**
 
 I design hybrid neural-numerical AI systems that combine mathematical representations, neural prediction/correction models, and classical numerical validation to solve nonlinear scientific and engineering problems reliably.
