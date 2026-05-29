@@ -1,55 +1,89 @@
 # Seokjun Jeong
 
-AI Research Engineer candidate specializing in **Scientific Machine Learning**, **Neural Numerical Methods**, and **Hybrid Neural-Numerical Solvers**.
+**AI Research Engineer | Scientific Machine Learning | Neural Numerical Methods**
 
-My research focuses on combining mathematical representations, neural prediction/correction models, and classical numerical validation to solve nonlinear scientific and engineering problems with improved reliability and computational efficiency.
+I design hybrid neural-numerical AI systems that combine mathematical representations, neural prediction/correction models, and classical numerical validation to solve nonlinear scientific and engineering problems reliably.
 
-## Research Focus
+<p>
+  <a href="https://doi.org/10.1109/ACCESS.2026.3697368">
+    <img src="https://img.shields.io/badge/IEEE%20Access-Early%20Access-blue?style=flat-square">
+  </a>
+  <a href="https://github.com/jseongnam/taylor-root-prediction">
+    <img src="https://img.shields.io/badge/Official%20Repo-taylor--root--prediction-black?style=flat-square&logo=github">
+  </a>
+  <img src="https://img.shields.io/badge/Research-Scientific%20ML-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Focus-Neural%20Numerical%20Methods-purple?style=flat-square">
+</p>
 
-- Scientific Machine Learning
-- Neural Numerical Methods
-- Hybrid AI Solvers
-- Taylor-based Local Representation
-- Transformer-based Interval Localization
-- Residual-based Validation
-- Newton Refinement
-- Computer Vision-based Action Recognition
+---
+
+## Research Identity
+
+My research focuses on **hybrid neural-numerical AI systems**.
+
+Rather than replacing classical numerical solvers with neural networks, I use neural models as:
+
+- interval localization modules
+- root/correction predictors
+- warm-start generators
+- residual-validated decision components
+
+The final goal is to improve prediction, initialization, correction, and computational efficiency while preserving mathematical reliability.
+
+---
 
 ## Selected Publications
 
 ### A Root Prediction System for Single-Variable Equations with Existing Taylor Polynomials  
 **IEEE Access, Early Access, 2026**  
-DOI: [10.1109/ACCESS.2026.3697368](https://doi.org/10.1109/ACCESS.2026.3697368)
-
-Official implementation:  
-[github.com/jseongnam/taylor-root-prediction](https://github.com/jseongnam/taylor-root-prediction)
+DOI: [10.1109/ACCESS.2026.3697368](https://doi.org/10.1109/ACCESS.2026.3697368)  
+Code: [taylor-root-prediction](https://github.com/jseongnam/taylor-root-prediction)
 
 ### Hybrid Deep Learning and Newton Refinement: A Baseline-Aware Correction Framework for Nonlinear Pipe-Flow Equations  
 **SCI manuscript under review**
 
-This work explores baseline-aware neural correction and Newton refinement for nonlinear pipe-flow equations governed by Colebrook–White residuals and hydraulic coupling constraints.
+---
 
-## Representative Research Projects
+## Representative Project
 
 ### Taylor Root Prediction
-A neural-numerical root prediction framework combining Transformer-based interval localization, 25th-order local Taylor representations, coefficient-based neural regression, and residual/domain/stability validation.
 
-Repository: [taylor-root-prediction](https://github.com/jseongnam/taylor-root-prediction)
+Official implementation of the IEEE Access paper on Taylor coefficient-based neural root prediction.
 
-### Hybrid Neural-Newton Pipe-Flow Correction
-A baseline-aware correction framework where neural models improve physically motivated initializers, while Newton refinement preserves high-precision numerical accuracy.
+Core components:
 
-### Skeleton-Based Action Recognition
-Pose-based action recognition and cycle-based segmentation for repetitive and abnormal behavior classification.
+- Transformer-based interval localization
+- 25th-order local Taylor representation
+- coefficient-based neural root regression
+- multi-candidate prediction
+- residual/domain/stability validation
+- baseline comparison and failure analysis
+
+Repository: [github.com/jseongnam/taylor-root-prediction](https://github.com/jseongnam/taylor-root-prediction)
+
+---
 
 ## Technical Stack
 
-**Programming:** Python, C, SQL  
-**Deep Learning:** PyTorch, Transformer, LSTM, GRU, MLP  
-**Scientific ML / Numerical Methods:** Newton-Raphson, Bisection, Taylor/Maclaurin Expansion, Residual Validation, Error Analysis  
-**Computer Vision:** OpenCV, YOLOv8 Pose, Skeleton-based Action Recognition  
-**Deployment:** Flask, REST API, Android Integration, Linux  
-**Research Workflow:** Dataset Generation, Baseline Comparison, Ablation Study, Failure Analysis, Reproducibility
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Transformer-000000?style=flat-square">
+  <img src="https://img.shields.io/badge/LSTM%20%2F%20GRU-4B8BBE?style=flat-square">
+  <img src="https://img.shields.io/badge/Numerical%20Analysis-2E8B57?style=flat-square">
+  <img src="https://img.shields.io/badge/Scientific%20ML-6A5ACD?style=flat-square">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+</p>
+
+---
+
+## Research Keywords
+
+`Scientific ML` · `Neural Numerical Methods` · `Root Finding` · `Taylor Series` · `Residual Validation` · `Newton Refinement` · `Computer Vision` · `Action Recognition`
+
+---
 
 ## Contact
 
