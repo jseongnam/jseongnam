@@ -1,6 +1,6 @@
 # Seokjun Jeong
 <p align="center">
-  <img src="assets/profile-banner.png" alt="Hybrid Neural-Numerical AI Systems" width="100%">
+  <img src="profile-banner.png" alt="Hybrid Neural-Numerical AI Systems" width="100%">
 </p>
 **AI Research Engineer | Scientific Machine Learning | Neural Numerical Methods**
 
